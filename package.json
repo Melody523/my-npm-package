@@ -1,0 +1,15 @@
+{
+  "name": "my-npm-package",
+  "version": "1.0.0",
+  "description": "尝试上传npm包",
+  "main": "dist/index.min.js",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT"
+}
